@@ -1,8 +1,10 @@
+/* A good font <3 */
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900&display=swap");
+
+/* My custom font for Morse Code lmaooo */
 @font-face {
   font-family: 'Morse';
-  src: url("morse.woff2") format("woff2"), url("morse.woff") format("woff");
+  src: url("fonts/morse.woff2") format("woff2"), url("fonts/morse.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
-/*# sourceMappingURL=font.css.map */
