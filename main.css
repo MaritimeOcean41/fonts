@@ -8,3 +8,16 @@
   font-weight: normal;
   font-style: normal;
 }
+
+
+/*
+Digital Display by chequered.ink
+license: Freeware, Non-Commercial
+link: https://www.fontspace.com/digital-display-font-f31011
+*/
+@font-face {
+  font-family: 'DigitalDisplay';
+  src: url("fonts/DigitalDisplay.woff2") format("woff2"), url("fonts/DigitalDisplay.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
