@@ -10,7 +10,7 @@
 }
 @font-face {
   font-family: 'Morse2o';
-  src: url("fonts/Morse-2o.ttf") format("ttf");
+  src: url("fonts/Morse-2o.woff2") format("woff2"), url("fonts/Morse-2o.woff") format("woff");
 }
 
 
